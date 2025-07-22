@@ -6,3 +6,5 @@ for j in range(5):
     else:
         continue
     break
+    print("Loop ended.")
+# This code will print the values of i and j in a nested loop.
